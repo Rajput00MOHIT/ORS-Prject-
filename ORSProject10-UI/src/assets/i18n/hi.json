@@ -43,6 +43,7 @@
   "Log Out" : "लॉग आउट",
   "Back" : "पीछे जाए",
   "Update" : "अपडेट करें",
+  "Select Course Name":"पाठ्यक्रम का नाम चुनें",
   "Select Roll No":"रोल नंबर का चयन करें",
   "Enter Role Name":"भूमिका का नाम दर्ज करें",
   "Search Description":"खोज विवरण",
@@ -231,5 +232,10 @@
 "Invalid ID or Password":"अमान्य आईडी और पासवर्ड",
 "Session Expired, Please Login Again":"सत्र समाप्त हो गया कृपया फिर से लॉगिन करें",
 
-"Log out successfully":"सफलतापूर्वक लॉग आउट"
+"Log out successfully":"सफलतापूर्वक लॉग आउट",
+
+"Select Atleast One Record":"कम से कम एक रिकॉर्ड का चयन करें",
+"Enter Roll Number":"रोल नंबर दर्ज करें",
+"Select Exam Time":"परीक्षा समय का चयन करें",
+"Select Subject":"विषय का चयन करें"
 }   
